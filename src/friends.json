@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "https://media.giphy.com/media/HioOq6DyB17BC/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "https://media.giphy.com/media/14nMfF6eUeWayc/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "https://media.giphy.com/media/Vg0JstydL8HCg/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "https://media.giphy.com/media/LXtjHzZjC5WLu/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "https://media.giphy.com/media/bn0zlGb4LOyo8/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "https://media.giphy.com/media/wXGqUkpU8YpQA/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "https://media.giphy.com/media/Mvw0MOnUZQu6A/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "https://media.giphy.com/media/YcRJTrJNMsGHK/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "https://media.giphy.com/media/vvIxKgElizkKA/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "https://media.giphy.com/media/5uWLUdSPX2hz2/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "https://media.giphy.com/media/8NMb4pE3iWHok/giphy.gif",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "https://media.giphy.com/media/dENTfSmFC07FS/giphy.gif",
+    "clicked": false
+  }
+]
